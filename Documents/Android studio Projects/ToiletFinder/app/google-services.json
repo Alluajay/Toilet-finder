@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "463620856568",
+    "firebase_url": "https://toiletfinder-427d7.firebaseio.com",
+    "project_id": "toiletfinder-427d7",
+    "storage_bucket": "toiletfinder-427d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463620856568:android:5bcbd7c295895046",
+        "android_client_info": {
+          "package_name": "com.example.allu.toiletfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463620856568-hrlgpcdo5i5ufg75bih3nknus2aolsvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allu.toiletfinder",
+            "certificate_hash": "23e6a0cf4c2b5a3382166e25004eaf34c54a21b0"
+          }
+        },
+        {
+          "client_id": "463620856568-araq9mg7pq78aja89f9hj1al5ek4o93u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPlBbpjJbREW5gcoJ5EEkwQWy9ipuEows"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463620856568-araq9mg7pq78aja89f9hj1al5ek4o93u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
